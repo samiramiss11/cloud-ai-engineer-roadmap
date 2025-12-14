@@ -8,9 +8,6 @@
 
 
 ## Linux (ADVANCED PRACTICE + EXPLANATION)
-
-## Linux (Advanced Practice & Explanations)
-
 ---
 
 ### Navigation & File Operations
